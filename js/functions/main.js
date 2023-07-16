@@ -1,0 +1,16 @@
+let techs = ["html", "css", "javascript", "php", "React"];
+console.log(techs);
+console.log(techs.push("Nodejs"));
+console.log(techs);
+console.log(techs.unshift("sql"));
+console.log(techs);
+console.log(techs.pop());
+console.log(techs);
+console.log(techs.slice(1, 4));
+console.log(techs);
+console.log(techs.shift());
+console.log(techs);
+console.log(techs.shift());
+console.log(techs);
+let index = techs.indexOf("php");
+console.log(index);
